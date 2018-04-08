@@ -93,15 +93,6 @@ register_activation_hook( __FILE__, 'buddypress_trending_topics_activate' );
 
 
 /**
- * Run the deactivation routine when BP-Follow is deactivated.
- * Not used currently.
- */
-function buddypress_trending_topics_deactivate() {
-	// Cleanup.
-}
-
-
-/**
  * Admin menu & options / form for the plugin
  */
 add_action( 'admin_menu', 'buddypress_trending_topics_menu' );

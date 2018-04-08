@@ -1,0 +1,1 @@
+This code example is the one formatted for how I code in an enterprise / team environment. It is a trending topics widget for Buddypress on Wordpress.
